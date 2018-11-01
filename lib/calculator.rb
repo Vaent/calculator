@@ -7,6 +7,8 @@ class Calculator
     multiply(num, num)
   end
 
+  private
+
   def output(result)
     "the answer is #{result}"
   end
